@@ -1,7 +1,7 @@
 ---
 contests:
 - U.S. President:
-    tally: rcv
+    tally: plurality
     contest_type: ticket
     ticket_offices:
       - President
