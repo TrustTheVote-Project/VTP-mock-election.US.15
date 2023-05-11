@@ -1,0 +1,45 @@
+Scanned 304 contests for contest (U.S. President) uid=0000, tally=rcv, max=1, win-by>0.5
+RCV: round 0
+Total vote count: 304
+[('Square Party Ticket', 106), ('Circle Party Ticket', 100), ('Triangle Party Ticket', 98)]
+RCV: round 1
+Total vote count: 304
+Final results for contest U.S. President (uid=0000):
+  ('Square Party Ticket', 155)
+  ('Circle Party Ticket', 149)
+  ('Triangle Party Ticket', 0)
+Scanned 303 contests for contest (U.S. Senate) uid=0001, tally=rcv, max=1, win-by>0.5
+RCV: round 0
+Total vote count: 303
+[('Gloria Gamma', 65), ('Anthony Alpha', 53), ('David Delta', 47), ('Emily Echo', 47), ('Francis Foxtrot', 47), ('Betty Beta', 44)]
+RCV: round 1
+Total vote count: 303
+[('Gloria Gamma', 71), ('Anthony Alpha', 65), ('Francis Foxtrot', 57), ('David Delta', 55), ('Emily Echo', 55), ('Betty Beta', 0)]
+RCV: round 2
+Total vote count: 303
+[('Anthony Alpha', 106), ('Gloria Gamma', 102), ('Francis Foxtrot', 95), ('Emily Echo', 0), ('David Delta', 0), ('Betty Beta', 0)]
+RCV: round 3
+Total vote count: 303
+Final results for contest U.S. Senate (uid=0001):
+  ('Gloria Gamma', 152)
+  ('Anthony Alpha', 151)
+  ('Francis Foxtrot', 0)
+  ('Emily Echo', 0)
+  ('David Delta', 0)
+  ('Betty Beta', 0)
+Scanned 303 contests for contest (Governor) uid=0002, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest Governor (uid=0002):
+  ('Cosmo Spacely', 155)
+  ('Spencer Cogswell', 148)
+Scanned 304 contests for contest (County Clerk) uid=0003, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest County Clerk (uid=0003):
+  ('James T. Kirk', 109)
+  ('Jean-Luc Picard', 98)
+  ('Katniss Everdeen', 97)
+Scanned 304 contests for contest (Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?) uid=0004, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM? (uid=0004):
+  ('no', 157)
+  ('yes', 147)

@@ -1,0 +1,8 @@
+Contest '0000 - U.S. President' (20ec3a9080ce8d4167b41843b1ffc6905a172263) is vote 304 out of 304 votes
+Contest '0001 - U.S. Senate' (8bef5f87658c40bbe7dcda814422a59e844b204d) is vote 303 out of 303 votes
+Contest '0002 - Governor' (f088442581dfac4332d8633239c0272f83f8ee2a) is vote 303 out of 303 votes
+Contest '0003 - County Clerk' (dacba213d14d28e5fb6dc4c5d8be88d37b6c8166) is vote 304 out of 304 votes
+Contest '0004 - Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?' (2cbf5011576f0a6dc49817c5619df237726358e0) is vote 304 out of 304 votes
+############
+[GOOD]: ballot receipt VALID - no digest errors found
+############
