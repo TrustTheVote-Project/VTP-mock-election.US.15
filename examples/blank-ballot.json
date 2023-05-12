@@ -36,12 +36,7 @@
                         }
                     ],
                     "contest_type": "ticket",
-                    "selection": [
-                        "0: Circle Party Ticket",
-                        "1: Square Party Ticket",
-                        "2: Triangle Party Ticket"
-                    ],
-                    "tally": "rcv",
+                    "tally": "plurality",
                     "ticket_offices": [
                         "President",
                         "Vice President"
@@ -77,11 +72,6 @@
                             "party": "Hexagon Party"
                         }
                     ],
-                    "selection": [
-                        "1: Betty Beta",
-                        "4: Emily Echo",
-                        "2: Gloria Gamma"
-                    ],
                     "tally": "rcv",
                     "uid": "0001"
                 }
@@ -98,10 +88,6 @@
                             "party": "Triangle Party"
                         }
                     ],
-                    "max": 1,
-                    "selection": [
-                        "0: Spencer Cogswell"
-                    ],
                     "tally": "plurality",
                     "uid": "0002"
                 }
@@ -114,10 +100,6 @@
                         "Jean-Luc Picard",
                         "Katniss Everdeen",
                         "James T. Kirk"
-                    ],
-                    "max": 1,
-                    "selection": [
-                        "0: Jean-Luc Picard"
                     ],
                     "tally": "plurality",
                     "uid": "0003"
@@ -132,10 +114,6 @@
                         "no"
                     ],
                     "description": "Should the Town of Concord start the annual Town Meeting at 6:30 PM instead of 7:00 PM?\n",
-                    "max": 1,
-                    "selection": [
-                        "0: yes"
-                    ],
                     "tally": "plurality",
                     "uid": "0004"
                 }

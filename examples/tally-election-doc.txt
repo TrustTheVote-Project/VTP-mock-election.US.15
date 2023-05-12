@@ -1,0 +1,44 @@
+Scanned 137 contests for contest (U.S. President) uid=0000, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest U.S. President (uid=0000):
+  ('Square Party Ticket', 50)
+  ('Triangle Party Ticket', 48)
+  ('Circle Party Ticket', 39)
+Scanned 137 contests for contest (U.S. Senate) uid=0001, tally=rcv, max=1, win-by>0.5
+RCV: round 0
+Total vote count: 137
+[('Anthony Alpha', 28), ('Francis Foxtrot', 27), ('Betty Beta', 25), ('David Delta', 21), ('Emily Echo', 19), ('Gloria Gamma', 17)]
+RCV: round 1
+Total vote count: 137
+[('Anthony Alpha', 30), ('Betty Beta', 30), ('Francis Foxtrot', 30), ('Emily Echo', 25), ('David Delta', 22), ('Gloria Gamma', 0)]
+RCV: round 2
+Total vote count: 137
+[('Francis Foxtrot', 40), ('Anthony Alpha', 34), ('Betty Beta', 32), ('Emily Echo', 31), ('David Delta', 0), ('Gloria Gamma', 0)]
+RCV: round 3
+Total vote count: 137
+[('Francis Foxtrot', 51), ('Anthony Alpha', 46), ('Betty Beta', 40), ('Emily Echo', 0), ('David Delta', 0), ('Gloria Gamma', 0)]
+RCV: round 4
+Total vote count: 136
+Final results for contest U.S. Senate (uid=0001):
+  ('Francis Foxtrot', 73)
+  ('Anthony Alpha', 63)
+  ('Betty Beta', 0)
+  ('Emily Echo', 0)
+  ('David Delta', 0)
+  ('Gloria Gamma', 0)
+Scanned 137 contests for contest (Governor) uid=0002, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest Governor (uid=0002):
+  ('Spencer Cogswell', 69)
+  ('Cosmo Spacely', 68)
+Scanned 137 contests for contest (County Clerk) uid=0003, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest County Clerk (uid=0003):
+  ('Katniss Everdeen', 49)
+  ('James T. Kirk', 46)
+  ('Jean-Luc Picard', 42)
+Scanned 137 contests for contest (Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?) uid=0004, tally=plurality, max=1, win-by>0.5
+Plurality - one round
+Final results for contest Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM? (uid=0004):
+  ('yes', 75)
+  ('no', 62)
