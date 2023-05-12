@@ -20,5 +20,5 @@ __pycache__
 **/CVRs/cast-ballot.json
 **/CVRs/receipt.csv
 **/RECEIPTs/*/*/qr.svg
-**/RECEIPTs/*/*/index
-**/RECEIPTs/*/*/receipt.demo.md
+# Note - only the receipt.md is versioned
+**/RECEIPTs/*/*/receipt-qr.md
